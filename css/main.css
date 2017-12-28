@@ -12,5 +12,13 @@ h2 {
 }
 
 body {
+  background-color: #f0eee8;
+}
+
+.card-body {
   font-family: Georgia;
+  background-color: #dcd4cd;
+  border-color: #cabdb2;
+  border-width: 3px;
+  border-radius: 3px;
 }
