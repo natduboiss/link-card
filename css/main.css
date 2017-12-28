@@ -5,3 +5,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h2 {
+  font-family: "Dosis", sans-serif;
+  color: #512200;
+}
+
+body {
+  font-family: Georgia;
+}
